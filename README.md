@@ -12,9 +12,14 @@ where start_date = end_date = today's date.
 
 Clone the repository. Main class is defined in NEOApp.java file.
 
+If you have an error saying javax.json can not be found, then download javax.json-1.1.jar from this repository and configure the library path in your IDE to point to this jar file.
+
+In case there is an error to connect to the NASA server, please add the following line to your /etc/hosts file:
+52.202.145.227  api.nasa.gov  nasa
+
 ### Prerequisites
 
-This application uses javax.json package downloaded as javax.json-1.1.jar to parse JSON data.  
+This application uses javax.json package to parse JSON data.  
 
 
 ## Running the tests
