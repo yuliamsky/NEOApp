@@ -32,5 +32,5 @@ Run the application. The expected output is:
 
 ## Author
 
-* **Yulia Moldavsky** - *Initial work* - [PurpleBooth](https://github.com/yuliamsky)
+* **Yulia Moldavsky** - *Initial work* - (https://github.com/yuliamsky)
 
